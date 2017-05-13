@@ -10,8 +10,6 @@ Se llevaran a cabo de forma periodica eventos con retos de AI y ML de todos los 
 ### Comunidades Locales
 Algunas comunidades dirigiendo los retos en diversas regiones de Colombia son:
 * NeuraLab / Machine Learning Meetup Medellin con RutaN (Medellin)
-* Big Data Colombia Meetup (Bogota)
-* Piensa (Barranquila) [No confirmado]
 
 ## Retos Internacionales
 Queremos demostrar que Colombia tiene el talento para crear soluciones de ML y AI de talla mundial, para esto se plantea conseguir financiamiento para que uno o mas equipos Colombianos ataquen retos de plataformas como Kaggle y puedan obtener buenos resultados. El financiamiento es para alquilar clusters de maquinas en la nube que sean capaces de correr trabajos pesados de ML e AI sin las cuales no es posible competir de forma realista.
